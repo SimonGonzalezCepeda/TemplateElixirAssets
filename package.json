@@ -1,5 +1,5 @@
 {
-  "name": "template_elixir_assets",
+  "name": "template-elixir-assets",
   "version": "1.0.0",
   "description": "Learning project",
   "main": "index.js",
@@ -11,6 +11,8 @@
   "devDependencies": {
     "laravel-elixir": "^6.0.0-11",
     "laravel-elixir-vue-2": "^0.2.0",
-    "webpack": "^1.13.2"
+    "laravel-elixir-webpack-official": "^1.0.6",
+    "laravel-elixir-browsersync-official": "^1.0.0",
+    "bootstrap-sass": "^3.3.7"
   }
 }
